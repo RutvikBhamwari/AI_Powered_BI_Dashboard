@@ -33,6 +33,12 @@ Only aggregated statistics are sent to the AI — never raw customer data.
 
 ---
 
+## 🎨 Design
+
+Designed in Figma before building.
+[View Figma Designs →](https://www.figma.com/design/cWQ6g5FToUlVigY3PVLcz0/M1-Data-Assitant?node-id=47-44&t=yrViGimidBFDcryJ-1)
+
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
